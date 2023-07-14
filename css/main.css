@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #62ad7a;
+  background: #cd1294;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2791,7 +2791,4 @@ pre {
 }
 .zhihu:hover {
   opacity: 1;
-}
-#music163player iframe {
-  border-radius: 10px; /* 调整数值来改变圆角的大小 */
 }
