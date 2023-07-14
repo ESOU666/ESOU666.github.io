@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zen Garden</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>A USTC retard&#39;s Blog</description>
+    <pubDate>Thu, 13 Jul 2023 14:58:06 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>开原盛世</title>
+      <link>http://example.com/2023/07/13/my-first-post/</link>
+      <guid>http://example.com/2023/07/13/my-first-post/</guid>
+      <pubDate>Thu, 13 Jul 2023 14:53:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;原神，启动！&quot;&gt;&lt;a href=&quot;#原神，启动！&quot; class=&quot;headerlink&quot; title=&quot;原神，启动！&quot;&gt;&lt;/a&gt;原神，启动！&lt;/h1&gt;&lt;p&gt;你说得对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作“提瓦特”的幻想世界</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="原神，启动！"><a href="#原神，启动！" class="headerlink" title="原神，启动！"></a>原神，启动！</h1><p>你说得对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作“提瓦特”的幻想世界，在这里，被神选中的人将被授予“神之眼”，导引元素之力。你将扮演一位名为“旅行者”的神秘角色，在自由的旅行中邂逅性格各异能力独特的同伴们，和他们一起击败强敌，找回失散的亲人。</p><p>曾经有教育家做了一个实验，给中国孩子和美国孩子一杯水，让他们不用制冷器就让水结成冰。中国孩子玩原神，使用甘雨开E直接把水冻结了，赢。而美国的孩子不玩原神，直接认输。可见从小培养玩原神的意识，比任何教育都重要。</p><p>你好，希望你不要在网上嘲讽原神玩家，这是第一次口头警告，希望第二次不会再看到你了，不然不会只是口头警告这么简单了。</p><p>我现在每天玩原神都能赚150原石，每个月差不多5000原石的收入，也就是现实生活中每个月5000 美元的收入水平，换算过来最少也30000人民币，虽然我只有14岁，但是已经超越了中国绝大多数人(包括你)的水平，这便是原神给我的骄傲的资本。</p><p>差不多得了😅我们王者荣耀，和平精英，光遇，火影忍者，阴阳师，原神，LOL手游，明日方舟，崩坏三，战双，金铲铲，使命召唤，暗区突围，CF手游，我的世界，炉石传说，第五人格，QQ飞车，哈利波特，战地，荣誉勋章，CF，荒野大镖客，永劫无间，刺客，巫师，DOTA，守望先锋，英雄联盟怎么你了？😅</p><p>这位同学，我再强调一遍！原神很重要！本科生玩原神，让你考研、直博、出国机会倍增，原神写在简历上，远比其他乱七八糟的信息更硬核！多为玩原神花心思，别舍不得精力物力，往这方面投入比吃喝拉撒回报率高无数倍！如果你还不行动起来，那我只能通过原网络找到你给你加学分了</p><p>你说得对，但是呢，那个，就是……就是那个两个字的游戏，它那个，嗯，他是由那个，好像是三个字的那个什么公司，自主，啊，研发的一款…全新的，开放的，那个叫做什么的冒险，的游戏。这个游戏发生在一个…一个被称作，被称作…三个字的，的一个幻想的世界，然后就是呃呃啊啊啊我又忘了😭😭😭</p><p>梵高的《星空》曾让我感受到苍穹之大与自我之渺，但伟大的《原神》，则仿佛让我一睹高维空间，它向我展示了一个永远无法理解的陌生世界，告诉我，你曾经以为很浩瀚的宇宙，其实也只是那么一丁点。加缪的《局外人》曾让我感受到世界与人类的荒诞，但伟大的原神，则向我展示了荒诞文学不可思议的新高度</p><p>你说得对，但是你能来玩原神吗？很难想象一个精神状态正常的游戏玩家会做出“不玩原神”这种选择。原神优秀的题材与充实有趣的游戏内容，可以说目前所有开放世界游戏中最优秀的，没有之一。没有玩过原神的朋友失去的不仅仅是一次游戏的体验，而是一种最基本的对游戏的理解与精神信仰。</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%91%A9%E6%B4%9B%E5%93%A5%E5%A4%A7%E7%82%92%E9%A5%BC/">摩洛哥大炒饼</category>
+      
+      
+      <comments>http://example.com/2023/07/13/my-first-post/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.com/2023/07/12/hello-world/</link>
+      <guid>http://example.com/2023/07/12/hello-world/</guid>
+      <pubDate>Wed, 12 Jul 2023 11:15:45 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2023/07/12/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
