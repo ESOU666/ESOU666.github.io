@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffd0ff;
+  background: #ff9145;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2709,6 +2709,13 @@ pre {
 code,
 pre {
   border: 1px solid #d6d6d6;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 /* 侧边栏图标格式设置 */
 .bilibili {
