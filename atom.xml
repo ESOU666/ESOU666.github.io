@@ -44,9 +44,9 @@
     <link href="http://esou0721.xyz/2023/07/12/hello-world/"/>
     <id>http://esou0721.xyz/2023/07/12/hello-world/</id>
     <published>2023-07-12T11:15:45.377Z</published>
-    <updated>2023-07-14T08:36:27.376Z</updated>
+    <updated>2023-07-14T09:17:48.489Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="El-Psy-Congroo"><a href="#El-Psy-Congroo" class="headerlink" title="El Psy Congroo"></a>El Psy Congroo</h2><p>Hello there! This is my first blog. I created this website using <a href="https://hexo.io/docs/">Hexo</a> as the framework, and <a href="https://nextjs.org/docs">Next</a> as its theme.</p><p>During the process of setting up my blog, I referred to these articles:<br><a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细）</a><br><a href="https://blog.csdn.net/weixin_44245220/article/details/124924297">Hexo-Next主题博客个性化配置</a></p><p>Quick deploy command:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d &amp;&amp; hexo s </span><br></pre></td></tr></table></figure></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="El-Psy-Congroo"><a href="#El-Psy-Congroo" class="headerlink" title="El Psy Congroo"></a>El Psy Congroo</h2><p>Hello there! This is my first blog. I created this website using <a href="https://hexo.io/docs/">Hexo</a> as the framework, and <a href="https://nextjs.org/docs">Next</a> as its theme.</p><p>During the process of setting up my blog, I referred to these articles:<br><a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细）</a><br><a href="https://blog.csdn.net/weixin_44245220/article/details/124924297">Hexo-Next主题博客个性化配置</a><br><a href="https://upwnothing.github.io/zh-CN/44bf8def/">Hexo + NexT 深度个性化配置 (2020.1 更新)</a></p><p>Quick deploy command:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d &amp;&amp; hexo s </span><br></pre></td></tr></table></figure></p>]]></content>
     
     
       
