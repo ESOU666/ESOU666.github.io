@@ -3,11 +3,11 @@
   <title>Zen Garden</title>
   
   <subtitle>Ciallo～(∠・ω&lt; )⌒☆</subtitle>
-  <link href="http://esou0722.xyz/atom.xml" rel="self"/>
+  <link href="http://esou0721.xyz/atom.xml" rel="self"/>
   
-  <link href="http://esou0722.xyz/"/>
-  <updated>2023-08-06T01:47:23.082Z</updated>
-  <id>http://esou0722.xyz/</id>
+  <link href="http://esou0721.xyz/"/>
+  <updated>2023-08-06T02:18:47.017Z</updated>
+  <id>http://esou0721.xyz/</id>
   
   <author>
     <name>ESOU</name>
@@ -17,9 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>The 12-hour Working Rule</title>
+    <link href="http://esou0721.xyz/2023/08/06/The-12-hour-Working-Rule/"/>
+    <id>http://esou0721.xyz/2023/08/06/The-12-hour-Working-Rule/</id>
+    <published>2023-08-06T02:13:45.000Z</published>
+    <updated>2023-08-06T02:18:47.017Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Principle"><a href="#Principle" class="headerlink" title="Principle"></a>Principle</h1><p>一天共24h，分给睡眠8h，早晨洗漱吃饭准备1h，中午&amp;晚上吃饭休息1h，睡前洗漱杂项1h，剩下12h用于学习工作。</p><p>一周7天中，6天强制执行12小时工作法则，剩下一天休息，可用于调休。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Principle&quot;&gt;&lt;a href=&quot;#Principle&quot; class=&quot;headerlink&quot; title=&quot;Principle&quot;&gt;&lt;/a&gt;Principle&lt;/h1&gt;&lt;p&gt;一天共24h，分给睡眠8h，早晨洗漱吃饭准备1h，中午&amp;amp;晚上吃饭休息1h，睡</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Schedule</title>
-    <link href="http://esou0722.xyz/2023/07/14/Daily-Schedule/"/>
-    <id>http://esou0722.xyz/2023/07/14/Daily-Schedule/</id>
+    <link href="http://esou0721.xyz/2023/07/14/Daily-Schedule/"/>
+    <id>http://esou0721.xyz/2023/07/14/Daily-Schedule/</id>
     <published>2023-07-13T16:00:00.000Z</published>
     <updated>2023-08-06T01:47:23.082Z</updated>
     
@@ -38,8 +58,8 @@
   
   <entry>
     <title>开原盛世</title>
-    <link href="http://esou0722.xyz/2023/07/13/%E5%BC%80%E5%8E%9F%E7%9B%9B%E4%B8%96/"/>
-    <id>http://esou0722.xyz/2023/07/13/%E5%BC%80%E5%8E%9F%E7%9B%9B%E4%B8%96/</id>
+    <link href="http://esou0721.xyz/2023/07/13/%E5%BC%80%E5%8E%9F%E7%9B%9B%E4%B8%96/"/>
+    <id>http://esou0721.xyz/2023/07/13/%E5%BC%80%E5%8E%9F%E7%9B%9B%E4%B8%96/</id>
     <published>2023-07-13T14:53:07.000Z</published>
     <updated>2023-07-14T08:18:20.710Z</updated>
     
@@ -52,17 +72,17 @@
     
     
     
-    <category term="互联网抽象大赏" scheme="http://esou0722.xyz/categories/%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%BD%E8%B1%A1%E5%A4%A7%E8%B5%8F/"/>
+    <category term="互联网抽象大赏" scheme="http://esou0721.xyz/categories/%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%BD%E8%B1%A1%E5%A4%A7%E8%B5%8F/"/>
     
     
-    <category term="原神" scheme="http://esou0722.xyz/tags/%E5%8E%9F%E7%A5%9E/"/>
+    <category term="原神" scheme="http://esou0721.xyz/tags/%E5%8E%9F%E7%A5%9E/"/>
     
   </entry>
   
   <entry>
     <title>My First Blog</title>
-    <link href="http://esou0722.xyz/2023/07/12/hello-world/"/>
-    <id>http://esou0722.xyz/2023/07/12/hello-world/</id>
+    <link href="http://esou0721.xyz/2023/07/12/hello-world/"/>
+    <id>http://esou0721.xyz/2023/07/12/hello-world/</id>
     <published>2023-07-12T11:15:45.377Z</published>
     <updated>2023-07-14T09:55:28.326Z</updated>
     
